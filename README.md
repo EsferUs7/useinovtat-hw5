@@ -11,11 +11,11 @@ _"Mosses are small, non-vascular flowerless plants in the taxonomic division Bry
 
 ---
 
-No seriously, **MOSS** are 🆒 . So `green#355E3B` 🟢... `green#008000` 💚... and `green#00A36C` 🟩. Not `~~red~~#FF0000` and not `~~blue~~#0000FF`... `**GREEN**#2AAA8A`. Some might say it all started with the Dot or the Void, but it's clear to me that **the MOSS** came first.
+No seriously, **MOSS** are 🆒 . So `green#355E3B` 🟢... green `#008000` 💚... and `green#00A36C` 🟩. Not `#FF0000`~~red~~ and not ~~blue~~`#0000FF`... `**GREEN**#2AAA8A`. Some might say it all started with the Dot or the Void, but it's clear to me that **the MOSS** came first.
   
 I think now you will know the power of **MOSS** and your life will be a little better.
 
-- [] Don't worry...
-- [] Be happy😄...
+- Don't worry...
+- Be happy😄...
 
 Good luck! Keep going for your dreams! ❤️❤️❤️
