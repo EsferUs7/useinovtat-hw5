@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="add hw 2 task 1-6">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useinovtat-hw2/useinovtat-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useinovtat-hw2/useinovtat-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useinovtat-hw2/useinovtat-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/useinovtat-hw2/useinovtat-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/useinovtat-hw2/useinovtat_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat_6.py" afterDir="false" />
+    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="moved from shos to shos inshe">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +88,7 @@
       <workItem from="1699291791234" duration="1028000" />
       <workItem from="1699383895279" duration="616000" />
       <workItem from="1699453573627" duration="680000" />
-      <workItem from="1699454269048" duration="2218000" />
+      <workItem from="1699454269048" duration="2657000" />
     </task>
     <task id="LOCAL-00001" summary="taska1">
       <option name="closed" value="true" />
@@ -252,7 +242,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699455927752</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add hw 2 task 1-6">
+      <option name="closed" value="true" />
+      <created>1699456697573</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699456697573</updated>
+    </task>
+    <task id="LOCAL-00021" summary="moved from shos to shos inshe">
+      <option name="closed" value="true" />
+      <created>1699456800761</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699456800761</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +318,7 @@
     <MESSAGE value="add task 1" />
     <MESSAGE value="add task 2-6" />
     <MESSAGE value="add hw 2 task 1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw 2 task 1-6" />
+    <MESSAGE value="moved from shos to shos inshe" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved from shos to shos inshe" />
   </component>
 </project>
