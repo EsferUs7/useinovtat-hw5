@@ -32,6 +32,13 @@
     &quot;assignee&quot;: &quot;EsferUs7&quot;
   }
 }</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -89,7 +96,7 @@
       <workItem from="1699383895279" duration="616000" />
       <workItem from="1699453573627" duration="680000" />
       <workItem from="1699454269048" duration="2657000" />
-      <workItem from="1699456966509" duration="764000" />
+      <workItem from="1699456966509" duration="1086000" />
     </task>
     <task id="LOCAL-00001" summary="taska1">
       <option name="closed" value="true" />
@@ -267,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699457371441</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add to hw2 taska 1 - 6">
+      <option name="closed" value="true" />
+      <created>1699457813352</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1699457813352</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +314,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/useinovtat-hw1" />
+                        <option value="origin/useinovtat-hw2" />
                       </list>
                     </value>
                   </entry>
