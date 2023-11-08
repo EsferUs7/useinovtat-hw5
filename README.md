@@ -1,5 +1,5 @@
 # useinovtat-hw5
-### Hi 🤝! I'm just a guy. I don't know what to say because this is my homework. So let's not talk about me, but about MOSS...
+### Hi 🤝! I'm just a guy. I don't know what to say cause this is my homework. So let's not talk about me, but about MOSS...
 
 ---
 
@@ -11,11 +11,12 @@ _"Mosses are small, non-vascular flowerless plants in the taxonomic division Bry
 
 ---
 
-No seriously, **MOSS** are 🆒 . So `green#355E3B` 🟢... green `#008000` 💚... and `green#00A36C` 🟩. Not `#FF0000`~~red~~ and not ~~blue~~`#0000FF`... `**GREEN**#2AAA8A`. Some might say it all started with the Dot or the Void, but it's clear to me that **the MOSS** came first.
+No seriously, **MOSS** are 🆒 . So `green` 🟢... `green` 💚... and `green` 🟩. Not ~~red~~ and not ~~blue~~... `**GREEN**`. Some might say it all started with the Dot or the Void, but it's clear to me that **the MOSS** came first.
   
 I think now you will know the power of **MOSS** and your life will be a little better.
 
 - Don't worry...
 - Be happy😄...
+- Don't cry because of my realization, cause I'm just a Pershachok🐸
 
 Good luck! Keep going for your dreams! ❤️❤️❤️
