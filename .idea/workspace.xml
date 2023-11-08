@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="taska1">
-      <change afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat-1.py" afterDir="false" />
+    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="add task 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "useinovtat-hw1",
-    "last_opened_file_path": "C:/Python_Proj/useinovtat-1.py",
+    "last_opened_file_path": "C:/Python_Proj/useinovtat-6.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +67,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Proj\useinovtat-hw1\useinovtat-hw1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +87,7 @@
       <workItem from="1699291791234" duration="1028000" />
       <workItem from="1699383895279" duration="616000" />
       <workItem from="1699453573627" duration="680000" />
-      <workItem from="1699454269048" duration="320000" />
+      <workItem from="1699454269048" duration="1207000" />
     </task>
     <task id="LOCAL-00001" summary="taska1">
       <option name="closed" value="true" />
@@ -204,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699454399952</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="taska1">
+      <option name="closed" value="true" />
+      <created>1699454601098</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699454601098</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add task 1">
+      <option name="closed" value="true" />
+      <created>1699454650423</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699454650423</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +257,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/useinovtat-hw1" />
                       </list>
                     </value>
                   </entry>
@@ -261,6 +282,7 @@
     <MESSAGE value="hw2 taska5" />
     <MESSAGE value="hw2 taska6" />
     <MESSAGE value="taska1" />
-    <option name="LAST_COMMIT_MESSAGE" value="taska1" />
+    <MESSAGE value="add task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task 1" />
   </component>
 </project>
