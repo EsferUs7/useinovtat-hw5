@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="hw2 taska6" />
+    <list default="true" id="356fe91e-8e15-4717-92d6-c5d580b23982" name="Changes" comment="taska1">
+      <change afterPath="$PROJECT_DIR$/useinovtat-hw1/useinovtat-1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="useinovtat-hw2" />
+        <entry key="$PROJECT_DIR$" value="useinovtat-hw4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "useinovtat-hw4",
+    "git-widget-placeholder": "useinovtat-hw1",
     "last_opened_file_path": "C:/Python_Proj/useinovtat-1.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,6 +82,7 @@
       <workItem from="1699291791234" duration="1028000" />
       <workItem from="1699383895279" duration="616000" />
       <workItem from="1699453573627" duration="680000" />
+      <workItem from="1699454269048" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="taska1">
       <option name="closed" value="true" />
@@ -193,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699292200993</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="taska1">
+      <option name="closed" value="true" />
+      <created>1699454399952</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699454399952</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +249,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="taska1" />
     <MESSAGE value="taska2" />
     <MESSAGE value="taska3" />
     <MESSAGE value="taska4" />
@@ -250,6 +260,7 @@
     <MESSAGE value="hw2 taska4" />
     <MESSAGE value="hw2 taska5" />
     <MESSAGE value="hw2 taska6" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2 taska6" />
+    <MESSAGE value="taska1" />
+    <option name="LAST_COMMIT_MESSAGE" value="taska1" />
   </component>
 </project>
